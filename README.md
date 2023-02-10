@@ -2,7 +2,7 @@
 Simple Shell 
 
 
-- Built-in commands
+Built-in commands
 - `maik`: writes in new file
 - `coppy`: copy from source file to destination
 - `byebye`: Exit program
